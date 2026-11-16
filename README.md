@@ -2,16 +2,6 @@
 
 This repository holds my Cloud Computing lab submissions for the semester. Each week has its own folder with the report (Markdown + PDF) and screenshots.
 
-## Student Details
-
-| Field | Details |
-| --- | --- |
-| Name | TODO: Add your name |
-| Roll Number | TODO: Add your roll number |
-| Section | BTECH_CSE_SECB_2023 |
-| University | Adamas University |
-| GitHub Repository | https://github.com/IAMROCKDEBA/Lab-Assignments |
-
 ## Lab Index
 
 | Week | Experiment | Report | Status |
